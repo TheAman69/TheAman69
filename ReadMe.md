@@ -1,5 +1,5 @@
 # 💫 About Me:
-#👋 Hi there, I'm Amanjeet Kumar!
+👋 Hi there, I'm Amanjeet Kumar!
 <br>🎓 Computer Science and Engineering student at Lovely Professional University (Batch: 2022–2026)<br>📍 From Nalanda, Bihar | Currently in Jalandhar, Punjab  <br><br>I’m a tech enthusiast deeply passionate about **Machine Learning**, **Neural Networks**, and **Generative AI**. I enjoy building practical projects that solve real-world problems and continuously explore new technologies in AI and Data Science.<br>My journey involves working on optimization techniques, dashboard development, and system design using languages like **Python**, **C++**, and frameworks like **PyTorch**, **TensorFlow**, etc.<br>
 
 
